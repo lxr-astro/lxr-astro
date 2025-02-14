@@ -9,7 +9,9 @@ config.automatically_reload_config = false
 
 
 -- 25-02-14 ?????????tmux
-config.default_prog = {"/opt/homebrew/bin/tmux"}
+config.default_prog = {"/opt/homebrew/bin/tmux"} -- mini, tmux in brew
+-- config.default_prog = {"/usr/local/bin/tmux"} -- old imac, tmux in /usr
+
 -- ???????????????
 config.hide_tab_bar_if_only_one_tab = true
 config.window_decorations = "RESIZE"
