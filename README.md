@@ -1,4 +1,4 @@
-### Domo, Coding=Layman desu!
+### Domo, Coding=Rookie desu!
 
 <!--
 **lxr-astro/lxr-astro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
