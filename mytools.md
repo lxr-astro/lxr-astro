@@ -1,15 +1,15 @@
 ## ~~没用的花架子~~ 美化方案
 
-截止25-02-14
+截止26-06-16
 
 ### 终端
-- vim：lazyvim（学习中）
-- terminal：wezterm + tmux（分割窗口）
+- ~~vim：lazyvim（学习中）~~
+- terminal：wezterm ~~+ tmux（分割窗口）~~
 
 ### 屏幕
 - 分屏：loop
-- 屏传：teamviewer 
-- ~~动态桌面：Plash（将网站作为Mac桌面壁纸，占cpu，很久没用了）~~
+- 屏传：~~teamviewer~~ rustdesk
+- ~~动态桌面：Plash（使用html作为Mac桌面壁纸，占cpu了）~~
 
 ### 状态栏
 - 活动监视：iStat Menus 6 [感谢好心人提供的激活码🙏➡](https://zhangzhenfei.github.io/15532194367348.html)
