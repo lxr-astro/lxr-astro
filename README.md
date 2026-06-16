@@ -1,4 +1,4 @@
-### Domo, Coding=Rookie desu!
+## Menu
 
 <!--
 **lxr-astro/lxr-astro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### .config
+Terminal beautification files.
+
+### Firefox Alpenglow Themes for Chrome
+2 Chrome theme ports inspired by Firefox Alpenglow: a light version and a dark version. 
+The original Firefox Alpenglow visual layers were adapted into Chrome-compatible PNG assets, with separate color palettes and new tab backgrounds for light and dark mode.
